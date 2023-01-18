@@ -17,9 +17,9 @@ For more information about CycloneDX property taxonomies, refer to the [official
 
 | Property Name                             | Description                                                    |
 | ----------------------------------------- | -------------------------------------------------------------- |
-| `appknox:metadata:mycroft_version         | The version of Mycroft version that is used to scan the App    |
-| `appknox:metadata:sherlock_version        | The version of Sherlock version that is used to scan the App   |
-| `appknox:metadata:enola_version           | The version of Enola version that is used to scan the App      |
+| `appknox:metadata:mycroft_version`        | The version of Mycroft version that is used to scan the App    |
+| `appknox:metadata:sherlock_version`       | The version of Sherlock version that is used to scan the App   |
+| `appknox:metadata:enola_version`          | The version of Enola version that is used to scan the App      |
 
 ## `appknox:component` Namespace Taxonomy
 
