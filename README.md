@@ -20,6 +20,7 @@ For more information about CycloneDX property taxonomies, refer to the [official
 | `appknox:metadata:mycroft_version`        | The version of Mycroft that is used to scan the App    |
 | `appknox:metadata:sherlock_version`       | The version of Sherlock that is used to scan the App   |
 | `appknox:metadata:enola_version`          | The version of Enola that is used to scan the App      |
+| `appknox:metadata:scan_datetime`          | The date and time when the App was originally scanned  |
 
 ## `appknox:component` Namespace Taxonomy
 
@@ -29,5 +30,4 @@ For more information about CycloneDX property taxonomies, refer to the [official
 | `appknox:component:project_id`         | UUID for project                        |
 | `appknox:component:vulnerability_id;`  | UUID for vulnerability                  |
 | `appknox:component:analysis_id`        | UUID for analysis/scan                  |
-| `appknox:component:scan_datetime`      | Date and time when the App was scanned  |
 
