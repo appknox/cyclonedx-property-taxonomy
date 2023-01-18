@@ -17,9 +17,7 @@ For more information about CycloneDX property taxonomies, refer to the [official
 
 | Property Name                             | Description                                            |
 | ----------------------------------------- | ------------------------------------------------------ |
-| `appknox:metadata:mycroft_version`        | The version of Mycroft that is used to scan the App    |
-| `appknox:metadata:sherlock_version`       | The version of Sherlock that is used to scan the App   |
-| `appknox:metadata:enola_version`          | The version of Enola that is used to scan the App      |
+| `appknox:metadata:sbom_scanner_version`   | The version of Appknox SBOM scanner that is used to scan the App    |
 | `appknox:metadata:scan_datetime`          | The date and time when the App was originally scanned  |
 | `appknox:metadata:file_id`                | UUID of the App that scanned                           |
 | `appknox:metadata:project_id`             | UUID of the Project that the App belongs to            |
