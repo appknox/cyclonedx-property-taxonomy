@@ -6,7 +6,7 @@ This is the official Appknox CycloneDX property namespace and name taxonomy. It 
 
 For more information about CycloneDX property taxonomies, refer to the [official documentation](https://github.com/CycloneDX/cyclonedx-property-taxonomy).
 
-## `Appknox` Namespace Taxonomy
+## `appknox` Namespace Taxonomy
 
 | Namespace             | Description                                                                                                    |
 | --------------------- | -------------------------------------------------------------------------------------------------------------- |
