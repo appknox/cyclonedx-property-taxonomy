@@ -21,13 +21,13 @@ For more information about CycloneDX property taxonomies, refer to the [official
 | `appknox:metadata:sherlock_version`       | The version of Sherlock that is used to scan the App   |
 | `appknox:metadata:enola_version`          | The version of Enola that is used to scan the App      |
 | `appknox:metadata:scan_datetime`          | The date and time when the App was originally scanned  |
+| `appknox:metadata:file_id`                | UUID of the App that scanned                           |
+| `appknox:metadata:file_id`                | UUID of the Project that the App belongs to            |
 
 ## `appknox:component` Namespace Taxonomy
 
 | Property Name                          | Description                             |
 | -------------------------------------- | --------------------------------------- |
-| `appknox:component:file_id`            | UUID for application                    |
-| `appknox:component:project_id`         | UUID for project                        |
 | `appknox:component:vulnerability_id;`  | UUID for vulnerability                  |
 | `appknox:component:analysis_id`        | UUID for analysis/scan                  |
 
