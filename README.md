@@ -28,6 +28,6 @@ For more information about CycloneDX property taxonomies, refer to the [official
 
 | Property Name                          | Description                             |
 | -------------------------------------- | --------------------------------------- |
-| `appknox:component:vulnerability_id;`  | UUID for vulnerability                  |
+| `appknox:component:vulnerability_id`  | UUID for vulnerability                  |
 | `appknox:component:analysis_id`        | UUID for analysis/scan                  |
 
