@@ -24,10 +24,9 @@ For more information about CycloneDX property taxonomies, refer to the [official
 
 ## `appknox:component` Namespace Taxonomy
 
-| Property Name                          | Description                                                      |
-| -------------------------------------- | ---------------------------------------------------------------  |
-| `appknox:component:vulnerability_id`   | UUID for vulnerability                                           |
-| `appknox:component:analysis_id`        | UUID for analysis/scan                                           |
-| `appknox:component:latest_version`     | The latest version of the comonent                               |
-| `appknox:component:ecosystem`          | The echosystem a partuculat component belongs to. For ex: Maven  |
-
+| Property Name                          | Description                                                               |
+| -------------------------------------- | ------------------------------------------------------------------------  |
+| `appknox:component:vulnerability_id`   | UUID for vulnerability                                                    |
+| `appknox:component:analysis_id`        | UUID for analysis/scan                                                    |
+| `appknox:component:latest_version`     | The latest version of the comonent                                        |
+| `appknox:component:purl`               | The [package-url](https://github.com/package-url/purl-spec) of component  |
